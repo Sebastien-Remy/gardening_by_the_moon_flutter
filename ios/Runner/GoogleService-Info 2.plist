@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>818155574580-q6up9ob3oqab5vc81fd160vislc9uco0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.818155574580-q6up9ob3oqab5vc81fd160vislc9uco0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>818155574580-9u4cvt2auq3kir6r8600pn9spdf3vvc5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBctgUSDODSi7em3IxpOwzhoK0eLSU3Ng4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>818155574580</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fr.ilandes.lunargarden</string>
+	<key>PROJECT_ID</key>
+	<string>gardening-by-the-moon</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gardening-by-the-moon.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:818155574580:ios:8459635ac2e5f421</string>
+	<key>DATABASE_URL</key>
+	<string>https://gardening-by-the-moon.firebaseio.com</string>
+</dict>
+</plist>
